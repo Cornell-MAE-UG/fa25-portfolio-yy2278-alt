@@ -1,3 +1,10 @@
+---
+title: "Thermo Fluid System Analysis"
+layout: page
+---
+
+
+
 I chose to experiment with the heat exchanger which is a thermal device that transfers heat between 2 flowing fluids without allowing them to mix.
 To differentiate the hot and cold water coming from 2 different reservoirs, we dye the hot water red and the cold water blue. 
 In real life, the purpose of heat exchanger is to either heat up or cool down a chosen system using the flow of fluids. It is a relatively cheap way of doing so.
