@@ -1,6 +1,7 @@
 ---
 title: "Thermo Fluid System Analysis"
 layout: page
+permalink: /fa25/portfolio/yy2278-alt/thermofluidsystemanalysis/
 ---
 
 
