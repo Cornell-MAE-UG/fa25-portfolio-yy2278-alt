@@ -1,7 +1,7 @@
 ---
 title: "Thermo Fluid System Analysis"
 layout: project
-permalink: /fa25/portfolio/yy2278-alt/thermofluidsystemanalysis/
+
 ---
 
 
