@@ -18,7 +18,7 @@ The could be an inaccuracy because we placed the thermometer at a different loca
 
 Below is an attached photo of my set up.
 
-image: ../HE_Equations.jpg
-image: ../Heat_exchanger.jpg
+image: /HE_Equations.jpg
+image: /Heat_exchanger.jpg
 
 
