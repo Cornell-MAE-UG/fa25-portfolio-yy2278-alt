@@ -1,7 +1,9 @@
 ---
 title: "Thermo Fluid System Analysis"
 layout: project
-
+description: Heat Exchanger Project
+technologies: []
+image: /Heat_exchanger.jpg
 ---
 
 
