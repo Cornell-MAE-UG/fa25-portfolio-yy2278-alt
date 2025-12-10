@@ -3,7 +3,7 @@ title: "Thermo Fluid System Analysis"
 layout: project
 description: Heat Exchanger Project
 technologies: []
-image: /HE_Equations.jpg
+image: /Heat_exchanger.jpg
 ---
 
 
