@@ -4,6 +4,7 @@ layout: project
 description: Heat Exchanger Project
 technologies: []
 image: /Heat_exchanger.jpg
+image: /HE_Equations.jpg
 ---
 
 
@@ -17,7 +18,6 @@ However, the temperature across the heat exchanger itself was greater when we se
 The could be an inaccuracy because we placed the thermometer at a different location。
 
 Below is an attached photo of my set up.
-image: /Heat_exchanger.jpg
-image: /HE_Equations.jpg
+
 
 
