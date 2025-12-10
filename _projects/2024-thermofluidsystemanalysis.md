@@ -17,8 +17,8 @@ However, the temperature across the heat exchanger itself was greater when we se
 The could be an inaccuracy because we placed the thermometer at a different location。
 
 Below is an attached photo of my set up.
-![Heat Exchanger Setup](../Heat_exchanger.jpg)
-![Heat Exchanger Diagram](../HE_Equations.jpg)
+![Heat Exchanger Setup](Heat_exchanger.jpg)
+![Heat Exchanger Diagram](HE_Equations.jpg)
 
 
 
